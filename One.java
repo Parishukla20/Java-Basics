@@ -1,4 +1,5 @@
 //Swap two numbers using third variable
+
 public class One {
     public static void main(String args[]){
     int a =10;
@@ -12,6 +13,7 @@ public class One {
     System.out.println("b = "+b);
 
 //Swap two numbers without using third variable
+        
     int c = 5;
     int d = 3;
     System.out.println("After Swapping:");
@@ -22,3 +24,4 @@ public class One {
     System.out.println(d);
     }
 }
+
