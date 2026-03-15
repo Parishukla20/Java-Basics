@@ -1,4 +1,4 @@
-//Reverse a string 
+//WAP for Reverse a string 
 public class Seven {
     public static void main(String args[]){
         String str = "Delhi";
