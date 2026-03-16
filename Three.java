@@ -1,4 +1,4 @@
-//Fibonacci Series using iteration
+//WAP for Fibonacci Series using iteration
 
 import java.util.Scanner;
 public class Three {
@@ -17,4 +17,3 @@ public class Three {
         }
     }
 }
-
