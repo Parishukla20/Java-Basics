@@ -1,7 +1,6 @@
 //Count vowels,consonant and digits
 
 import java.util.Scanner;
-
 public class Five {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
