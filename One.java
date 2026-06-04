@@ -24,4 +24,3 @@ public class One {
     System.out.println(d);
     }
 }
-
